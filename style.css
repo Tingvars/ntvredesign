@@ -1,0 +1,228 @@
+.darkgreycolor {
+    background-color:#666666;
+}
+
+.greencolor {
+    background-color: rgb(62, 196, 38);
+}
+
+.lightgreycolor {
+    background-color:#c9c8c8;
+}
+
+.browncolor {
+    background-color:#745900;
+}
+
+h2  {
+    text-align: center;
+}
+
+.navbar {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+
+.rightheadercontainer {
+    position: absolute;
+    top:0%;
+    padding-top: 5px;
+}
+
+.rightheader {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.headerrightsection {
+    display: flex;
+    flex-direction: row;
+}
+
+.headerlink {
+    padding-right: 5px;
+    color: rgb(62, 196, 38);
+    text-decoration: none;
+}
+
+.hero {
+    min-height: 300px;    
+}
+
+.heroimagecontainer {
+    padding: 10px 0;
+    min-height: 100px;
+    position: absolute;
+  right: 100px;
+  text-align: center;
+}
+
+.herobox {
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.coursecontainer {
+    background-color:bisque;
+    min-height: 150px;
+}
+
+.leftcourses {
+    background-color:#c9c8c8;
+}
+
+.courselist {
+    padding: 4px;
+}
+
+.leftcoursestitle {
+    padding: 2px;
+    text-align: center;
+    color: rgb(62, 196, 38);
+}
+
+.coursebuttoncontainer  {
+    min-width: 150px;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+}
+
+.courselinkbutton {
+    font-size: small;
+    text-align: center;
+    background-color: rgb(62, 196, 38);
+    min-height: 45px;
+    width: 140px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+
+.rightcourses {
+    background-color:white;
+}
+
+.rightcoursestitle {
+    padding: 2px;
+    text-align: center;
+    color: rgb(62, 196, 38);
+}
+
+.upnextcontainer  {
+    padding: 10px;
+}
+
+.upnextrow  {
+    padding: 2px;
+    background-color: white;
+    border: 1px solid black;
+    font-size: small;
+}
+
+.calendarbutton  {
+    color: white;
+    background-color:#745900;
+    border: 1px solid black;
+}
+
+.calendarbuttoncontainer  {
+    padding: 3px;
+}
+
+.linkcontainer  {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    padding: 7px;
+}
+
+.linkbuttoncontainer  {
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+}
+
+.linklinkbutton {
+    color:#c9c8c8;
+    font-size: small;
+    text-align: center;
+    background-color: #745900;
+    min-height: 20px;
+    max-height: 40px;
+    width: 110px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+
+.newscontainer {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    min-height: 350px;
+    max-height: 350px;
+    overflow: scroll;
+    border: 1px solid black;
+}
+
+.newsimgcontainer   {
+  padding: 10px;
+}
+
+.newsarticle   {
+    margin: 10px;
+    border: 1px solid #c9c8c8;
+}
+
+.datetext {
+   font-size: smaller;
+}
+
+.newsbody {
+    font-size: small;
+ }
+
+ .ntvfooter {
+    background-color:#666666;
+    margin: 0;
+ }
+
+ .footercontainer {
+     padding: 20px;
+    display: flex;
+    justify-content: center;
+ }
+
+ .footertextcolumn {
+    
+    text-align: center;
+ }
+
+ .footertitle {
+     font-size: small;
+    color: rgb(62, 196, 38);
+    margin-bottom: 4px;
+}
+
+.footertext {
+    margin: 0;
+    font-size: small;
+   color: white;
+}
+
+.subscribebox {
+height: 40px;
+margin-top: 5px;
+margin-left: 30px;
+margin-right: 30px;
+}
+
+.btn-primary {
+    margin-top:auto;
+    margin-bottom: auto;
+    background-color: rgb(62, 196, 38);
+    border-color: rgb(62, 196, 38);
+    }
